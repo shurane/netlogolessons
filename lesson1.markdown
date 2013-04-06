@@ -133,7 +133,6 @@ Why don't you try the above code for 3 turtles? Or 5 turtles? Or more?
 
 Do you think you can remake any of the following shapes?
 --
-- [album of images](http://imgur.com/a/rEf7R)
 - [rotating squares](http://logo.twentygototen.org/4gxRYOCe)
 - [pretty scatterplot](http://logo.twentygototen.org/U-vJcCz3)
 - [hexaflake](http://logo.twentygototen.org/AJeuVkKc)
