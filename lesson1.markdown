@@ -1,5 +1,3 @@
-vim: sts=4:sw=4:ts=4:ft=markdown
-
 ## lesson1: Turtling.
 
 With NetLogo open and the `Interface` tab selected, try out the following in the `Command Center`:
